@@ -1,0 +1,28 @@
+200|
+e9bdf988-a8d8-4118-ad40-1292c9140bde|
+selectedStorePortURI=x-coredata%3A%2F%2Fcust%2FStore%2FewoJInByaW1hcnlLZXkiID0gewoJCSJzdG9yZUlEIiA9ICIxNDgxIjsKCX07CgkiZW50aXR5TmFtZSIgPSAiU3RvcmUiOwp9&selectedStatePortURI=&0.1.0.1.3.0.7.1.10.5.7=Y&productImage=http%3A%2F%2Freserve.apple.com%2Frprcustomer%2Fimages%2Fiphone4_choose_store_cn.jpg&=%5Bobject+Object%5D&0.1.0.1.3.0.7.1.10.5.61=true|
+selectedStorePortURI=x-coredata%3A%2F%2Fcust%2FStore%2FewoJInByaW1hcnlLZXkiID0gewoJCSJzdG9yZUlEIiA9ICIxMzY0IjsKCX07CgkiZW50aXR5TmFtZSIgPSAiU3RvcmUiOwp9&selectedStatePortURI=null&0.1.0.1.3.0.7.1.10.5.7=Y&productImage=http%3A%2F%2Freserve.apple.com%2Frprcustomer%2Fimages%2Fiphone4_choose_store_cn.jpg&=%5Bobject+Object%5D&0.1.0.1.3.0.7.1.10.5.59=true|
+selectedStorePortURI=x-coredata%3A%2F%2Fcust%2FStore%2FewoJInByaW1hcnlLZXkiID0gewoJCSJzdG9yZUlEIiA9ICI0MjEiOwoJfTsKCSJlbnRpdHlOYW1lIiA9ICJTdG9yZSI7Cn0%3D&selectedStatePortURI=null&0.1.0.1.3.0.7.1.10.5.7=Y&productImage=http%3A%2F%2Freserve.apple.com%2Frprcustomer%2Fimages%2Fiphone4_choose_store_cn.jpg&=%5Bobject+Object%5D&0.1.0.1.3.0.7.1.10.5.59=true|
+selectedStorePortURI=x-coredata%3A%2F%2Fcust%2FStore%2FewoJInByaW1hcnlLZXkiID0gewoJCSJzdG9yZUlEIiA9ICIxNDgyIjsKCX07CgkiZW50aXR5TmFtZSIgPSAiU3RvcmUiOwp9&selectedStatePortURI=null&0.1.0.1.3.0.7.1.10.5.7=Y&productImage=http%3A%2F%2Freserve.apple.com%2Frprcustomer%2Fimages%2Fiphone4_choose_store_cn.jpg&=%5Bobject+Object%5D&0.1.0.1.3.0.7.1.10.5.59=true|
+ewoJInByaW1hcnlLZXkiID0gewoJCSJzdG9yZUlEIiA9ICIxNDgxIjsKCX07CgkiZW50aXR5TmFtZSIgPSAiU3RvcmUiOwp9|
+ewoJInByaW1hcnlLZXkiID0gewoJCSJzdG9yZUlEIiA9ICIxMzY0IjsKCX07CgkiZW50aXR5TmFtZSIgPSAiU3RvcmUiOwp9|
+ewoJInByaW1hcnlLZXkiID0gewoJCSJzdG9yZUlEIiA9ICI0MjEiOwoJfTsKCSJlbnRpdHlOYW1lIiA9ICJTdG9yZSI7Cn0%3D|
+ewoJInByaW1hcnlLZXkiID0gewoJCSJzdG9yZUlEIiA9ICIxNDgyIjsKCX07CgkiZW50aXR5TmFtZSIgPSAiU3RvcmUiOwp9|
+RPRCookie=zh%7CCN; woinst=-1; s_pv=Reserve%20%26%20Wrap%20-%20Choose%20a%20store%20(CN); s_pathLength=retail%3D1%2C; |
+RPRCookie=zh%7CCN; woinst=-1; s_pv=Reserve%20%26%20Wrap%20-%20Product%20detail%20-%20iPhone%20(CN); s_pathLength=retail%3D2%2C; |
+RPRCookie=zh%7CCN; woinst=-1; s_pv=Reserve%20%26%20Wrap%20-%20Apple%20ID%20Sign-in%20(CN); s_pathLength=retail%3D3%2C; |
+RPRCookie=zh%7CCN; woinst=-1; s_pv=Reserve%20%26%20Wrap%20-%20Confirm%20Information%20(CN); s_pathLength=retail%3D4%2C; DefaultAppleID=synpp0216%2540sina.com; |
+RPRCookie=zh%7CCN; woinst=-1; s_pv=Reserve%20%26%20Wrap%20-%20Confirm%20Information%20(CN); s_pathLength=retail%3D4%2C; DefaultAppleID=z764502589%2540126.com; |
+901|
+5955|
+张佩瑜|
+745264559|
+0.1.0.1.3.0.7.1.10.1.7.20.0.5.1.1.1.4|
+0.1.0.1.3.0.7.1.10.1.7.20.0.5.1.1.1.20|
+0.1.0.1.3.0.7.1.10.1.7.20.0.5.1.1.1.30|
+259;ipad&515;鸿iphone香港&516;鸿iphone浦东&567;刷机黄牛勇&1521;陈琳ip4港&529;陈琳ip4浦&1541;香港IPAD&1113;叶ipad港&809;方传111&654;海燕香港&984;鸿西单&655;海燕浦东&667;天一&746;W北京&689;星光&1507;张佩瑜&888;鸿三里屯&937;永平2&1411;5-28代购名单&1237;lian香港&1520;陈琳ipad&1218;关1&1219;关2&1476;29ipad香港JAVA&1477;29ipad浦东JAVA&566;百姓手机&1114;叶ipad浦&765;HH&994;鸿香港IPAD&987;章东红&1216;浦东5.26马强&938;永平1&939;永平&995;伟香港&1482;lian浦东&|
+白色/16G:skuID=MC979CHA-黑色/16G:skuID=MC769CHA-白色/32G:skuID=MC980CHA-黑色/32G:skuID=MC770CHA-白色/64G:skuID=MC981CHA-黑色/64G:skuID=MC916CHA
+
+"http://localhost:8088/iphone4/GetUserList";
+"http://localhost:8088/iphone4/Login";
+"http://localhost:8088/iphone4/PostResult";

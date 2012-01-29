@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="iphone_re/src" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="E:/apple/piao/QuerySun/lib/mysql-connector-java-5.0.4.jar" kind="lib"/>
+	<classpathentry path="E:/apple/piao/QuerySun/lib/json-lib-2.2.1-jdk15.jar" kind="lib"/>
+	<classpathentry path="E:/apple/piao/QuerySun/lib/ezmorph-1.0.2.jar" kind="lib"/>
+	<classpathentry path="E:/apple/piao/QuerySun/lib/dom4j-1.6.1.jar" kind="lib"/>
+	<classpathentry path="E:/apple/piao/QuerySun/lib/commons-logging-1.0.4.jar" kind="lib"/>
+	<classpathentry path="E:/apple/piao/QuerySun/lib/commons-lang-2.3.jar" kind="lib"/>
+	<classpathentry path="E:/apple/piao/QuerySun/lib/commons-collections-3.2.jar" kind="lib"/>
+	<classpathentry path="E:/apple/piao/QuerySun/lib/commons-beanutils-1.7.0.jar" kind="lib"/>
+	<classpathentry path="E:/GW/vaistaff/WEB-INF/lib/servlet.jar" kind="lib"/>
+	<classpathentry path="iphone_re/bin" kind="output"/>
+</classpath>

@@ -1,0 +1,8 @@
+threadnum=18
+timeout=30
+store=2
+cow=0
+notify=yes
+five=yes
+repeat=yes
+type=0
